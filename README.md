@@ -4,7 +4,7 @@ My contribution:-
 
 1.Designing of layout of the website
 
-2.Gathering of resources and making of flowchart for commerce section
+2.Gathering of resources for the commerce section and making of flowchart for the same.
 
 
 
